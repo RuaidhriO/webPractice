@@ -1,0 +1,38 @@
+h1 {
+	font-family: "Lucida Sans Unicode";
+	font-size: 48px;
+	color: #FF0066;
+	background-color: #00FFFF;
+}
+
+h2 {
+	font-family: "Trebuchet MS";
+	font-size: 32px;
+	color: #FFFF00;
+	background-color: #00FF00;
+}
+
+h3 {
+	font-family: "Helvetica";
+	font-size: 18px;
+	color: #335CD6;
+	background-color: #990099;
+}
+
+div {
+	background-color: #0000CC;
+	height: 200px;
+	width: 200px;
+	border: 2px dashed yellow;
+}
+
+table {
+	border: 2px solid red;
+}
+
+td {
+	background-color: #003D00;
+	height: 150px;
+	width: 150px;
+	border: 2px solid blue;
+}
