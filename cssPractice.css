@@ -1,38 +1,50 @@
+head {
+	background-color: #FF99FF;
+}
+
+body {
+	background-color: #C6E2FF;
+}
+
 h1 {
 	font-family: "Lucida Sans Unicode";
-	font-size: 48px;
-	color: #FF0066;
-	background-color: #00FFFF;
+	font-size: 50px;
+	color: #0066FF;
 }
 
-h2 {
-	font-family: "Trebuchet MS";
-	font-size: 32px;
-	color: #FFFF00;
-	background-color: #00FF00;
+div{
+	height: 160px;
+	width: 480px;
+	background-color: #FFFFFF;
 }
 
-h3 {
-	font-family: "Helvetica";
-	font-size: 18px;
-	color: #335CD6;
-	background-color: #990099;
-}
-
-div {
+div div {
+	height: 80px;
+	width: 240px;
 	background-color: #0000CC;
-	height: 200px;
-	width: 200px;
-	border: 2px dashed yellow;
+	border: 1px solid black;
+	margin: auto;
+	text-align: center;
 }
 
-table {
-	border: 2px solid red;
+div p {
+	font-family: "Verdana";
+	text-align: center;
 }
 
-td {
-	background-color: #003D00;
-	height: 150px;
-	width: 150px;
-	border: 2px solid blue;
+div span {
+	font-weight: bold;
+	color: #0066FF;
+	font-size: 18px;
+}
+
+p {
+	font-family: "Verdana";
+}
+
+.textbox{
+	background-color: #FFFFFF;
+	height: 100px;
+	width: 1100px;
+	border: 1px solid black;
 }
